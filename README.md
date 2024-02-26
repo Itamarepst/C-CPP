@@ -19,7 +19,7 @@
     <li><a href="./ Image Recognition"><b>Image Recognition, Neural Network »</b></a></li>
     <ul><li style="list-style: none;">⤷ A digit recognizer program using Neural Network</li></ul>
     <br>
-    <li><a href="./Exercise 5"><b>Exercise 5 - Movie Recommender »</b></a></li>
+    <li><a href="./Exercise 5"><b> Movie Recommender »</b></a></li>
     <ul><li style="list-style: none;">⤷ A program that analyzed given data to recommend the most suited movie for a user</li></ul>
   </ul>
 </div>
