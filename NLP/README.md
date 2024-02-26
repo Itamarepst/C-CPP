@@ -5,12 +5,11 @@
     <b>Natural Language Processing</b> is the 3rd (Part A) exercise I've solved in Huji's <b>Programming Workshop in C & C++</b> course.
     <br>
     The main idea behind this exercise is to get familiar with <b>Markov Chains</b>, <b>Dynamic Arrays</b> and <b>Memory Management</b>.
-    
+    <br>
     <br>
   </p>
 </div>
 
-<br>
 
 <div align="left">
   <h2 align="left" style="border-bottom: 1px solid gray">Usage</h2>
