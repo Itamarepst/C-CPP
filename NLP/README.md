@@ -2,26 +2,22 @@
   <h1 align="center" style="border-bottom: none"><b> Natural Language Processing</h1>
 
   <p align="center">
-    <b>Natural Language Processing</b> is the 3rd (Part A) exercise I've solved in Huji's <b>Programming Workshop in C & C++</b> course.
+    Welcome to the Natural Language Processing project, a culmination of the 3rd (Part A) exercise in Huji's <b>Programming Workshop in C & C++</b> course.
     <br>
-    The main idea behind this exercise is to get familiar with <b>Markov Chains</b>, <b>Dynamic Arrays</b> and <b>Memory Management</b>.
+    This project explores the fascinating world of <b>Natural Language Processing (NLP)</b>, integrating advanced concepts such as <b>Markov Chains</b>, <b>Dynamic Arrays</b>, and <b>Memory Management</b> to create a powerful and versatile application for language analysis.
     <br>
     <br>
   </p>
 </div>
 
-
 <div align="left">
   <h2 align="left" style="border-bottom: 1px solid gray">Usage</h2>
 
-  <p>Run the project on your personal machine</p>
+  <p>Run the NLP project on your local machine:</p>
   <ol align="left">
     <li>Clone this repository using <code>git clone &lt;url&gt;</code></li>
     <li>Open the cloned project in your IDE</li>
-    <li>Use a C/CPP compiler such as GCC to compile all relevant files into an executable</li>
-    <li>run the created executable file</li>
+    <li>Compile all relevant files using a C/C++ compiler such as GCC</li>
+    <li>Run the created executable file</li>
   </ol>
 </div>
-
-<br>
-
