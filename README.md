@@ -10,10 +10,10 @@
   <h2 align="left" style="border-bottom: 1px solid gray">Exercises</h2>
 
   <ul align="left">
-    <li><a href="NLP"><b>Marcov Chain - Natural Language Processing »</b></a></li>
+    <li><a href="NLP"><b>Markov Chain - Natural Language Processing »</b></a></li>
     <ul><li style="list-style: none;">⤷ An implementation of the Markov Chain model to generate tweets</li></ul>
     <br>
-    <li><a href="./Snakes and Ladders"><b>Marcov Chain - Snakes and Ladders »</b></a></li>
+    <li><a href="./Snakes and Ladders"><b>Markov Chain - Snakes and Ladders »</b></a></li>
     <ul><li style="list-style: none;">⤷ A generic implementation of Snakes and Ladders using the Markov Chain model</li></ul>
     <br>
     <li><a href="./ Image Recognition"><b>Image Recognition, Neural Network »</b></a></li>
@@ -21,9 +21,6 @@
     <br>
     <li><a href="./Exercise 5"><b>Exercise 5 - Movie Recommender »</b></a></li>
     <ul><li style="list-style: none;">⤷ A program that analyzed given data to recommend the most suited movie for a user</li></ul>
-    <br>
-    <li><a href="./Movie Recommender"><b>Movie Recommender - HashMap & Dictionary »</b></a></li>
-    <ul><li style="list-style: none;">⤷ A custom implementation to the HashMap & Dictionary data structures in C++</li></ul>
   </ul>
 </div>
 
